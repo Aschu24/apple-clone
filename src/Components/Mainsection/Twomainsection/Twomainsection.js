@@ -128,7 +128,7 @@ const Twomainsection = () => {
         <YouTube />
       </section>
       <section>
-        <News />
+        {/* <News /> */}
       </section>
     </div>
   );
